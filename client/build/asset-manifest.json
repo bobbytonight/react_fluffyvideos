@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_fluffyvideos/static/css/main.f92f3415.css",
+    "main.js": "/react_fluffyvideos/static/js/main.1390516e.js",
+    "static/media/Background.jpeg": "/react_fluffyvideos/static/media/Background.71373a48551bc9600758.jpeg",
+    "index.html": "/react_fluffyvideos/index.html",
+    "main.f92f3415.css.map": "/react_fluffyvideos/static/css/main.f92f3415.css.map",
+    "main.1390516e.js.map": "/react_fluffyvideos/static/js/main.1390516e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92f3415.css",
+    "static/js/main.1390516e.js"
+  ]
+}
